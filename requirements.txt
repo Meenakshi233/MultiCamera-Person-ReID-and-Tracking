@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+Flask
+requests
+ultralytics
+scipy
+scikit-learn
+flask-cors
